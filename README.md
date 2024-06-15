@@ -1,2 +1,6 @@
-# Implementacao-NFS-
+# Implementacao-NFS  
 Este é um exercício de avaliação da disciplina Sistemas Distribuídos, curso Ciência da Computação do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz.
+
+Discentes: Diego Alves da Conceição Oliveira e Lúcio 
+
+Network File System (NFS)
